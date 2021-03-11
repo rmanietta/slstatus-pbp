@@ -1,7 +1,7 @@
 slstatus - suckless status
 ==========================
 slstatus is a suckless status monitor for window managers that use WM_NAME
-(e.g. dwm) or stdin to fill the status bar.
+(e.g. dwm) or stdin to fill the status bar. This is my personally modified version specifically modified for use with the pinebook Pro and it's different location for finding battery details.
 
 
 Features
